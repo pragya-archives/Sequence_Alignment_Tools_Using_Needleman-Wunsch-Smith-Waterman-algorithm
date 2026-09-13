@@ -1,10 +1,11 @@
-# Sequence Alignment Tool
+# Sequence Alignment Tool using Needleman-Wunsch and Smith-Waterman Algorithm
 
+A simple Python-based tool for comparing two DNA sequences using two popular sequence alignment algorithms.
 
-## <img width="978" height="729" alt="Capture 2" src="https://github.com/user-attachments/assets/bc0d98c5-0f61-41ba-ba7e-def7c1f4fb4a" />
- How to Run
-
+I built this project to understand how **pairwise sequence alignment and dynamic programming** work in bioinformatics.
+It will show: 
  <img width="402" height="566" alt="Capture2" src="https://github.com/user-attachments/assets/67d13d54-48bc-4f38-9fcf-a86ee70cf45c" />
+ <img width="978" height="729" alt="Capture 2" src="https://github.com/user-attachments/assets/bc0d98c5-0f61-41ba-ba7e-def7c1f4fb4a" />
 
 A simple Python-based tool for comparing two DNA sequences using two popular sequence alignment algorithms.
 
